@@ -3,6 +3,8 @@
 ## Project Overview
 This project analyzes smart city bike-sharing station data using Power BI to understand operational efficiency, bike availability, station utilization, and city-wise performance.
 
+---
+
 ## Objectives
 - Analyze bike station performance across cities
 - Monitor available bikes and empty stations
@@ -11,11 +13,15 @@ This project analyzes smart city bike-sharing station data using Power BI to und
 - Compare banking-enabled vs non-banking stations
 - Build an interactive analytical dashboard
 
+---
+
 ## Tools Used
 - Power BI
 - Power Query
 - DAX
 - Data Modeling
+
+---
 
 ## Dashboard Features
 - KPI Cards
@@ -25,11 +31,15 @@ This project analyzes smart city bike-sharing station data using Power BI to und
 - Utilization Analysis
 - Station Availability Monitoring
 
+---
+
 ## Key Insights
 - Several stations show low utilization despite high capacity.
 - Non-banking stations contain higher bike availability.
 - Some cities demonstrate stronger operational efficiency.
 - Empty stations indicate possible redistribution requirements.
+
+---
 
 ## Files Included
 - Power BI Dashboard (.pbix)
@@ -37,5 +47,19 @@ This project analyzes smart city bike-sharing station data using Power BI to und
 - Data Model Screenshot
 - One-Page Summary Report
 
-<img width="940" height="520" alt="image" src="https://github.com/user-attachments/assets/529c8a2b-d944-4a81-8634-99dd7879077d" />
+---
 
+## Dashboard Preview
+
+![Dashboard](assets/dashboard_overview.png)
+
+---
+
+## Data Model
+
+![Model View](assets/model_view.png)
+
+---
+
+## Author
+Shalini

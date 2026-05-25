@@ -51,13 +51,14 @@ This project analyzes smart city bike-sharing station data using Power BI to und
 
 ## Dashboard Preview
 
-![Dashboard](assets/dashboard_overview.png)
+<img width="940" height="520" alt="image" src="https://github.com/user-attachments/assets/49b189f0-a386-40ea-8822-c39a2df4450c" />
 
 ---
 
 ## Data Model
 
-![Model View](assets/model_view.png)
+
+<img width="940" height="526" alt="image" src="https://github.com/user-attachments/assets/bbd5ef4f-ae35-4a52-8d61-691ee3b08fb7" />
 
 ---
 

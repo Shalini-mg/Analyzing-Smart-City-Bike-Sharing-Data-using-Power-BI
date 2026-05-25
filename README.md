@@ -37,5 +37,5 @@ This project analyzes smart city bike-sharing station data using Power BI to und
 - Data Model Screenshot
 - One-Page Summary Report
 
-## Author
-Shalini 
+<img width="940" height="520" alt="image" src="https://github.com/user-attachments/assets/529c8a2b-d944-4a81-8634-99dd7879077d" />
+
